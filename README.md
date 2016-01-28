@@ -1,12 +1,12 @@
 # Writer
-A pure JS clone of the android app Writer.
+A simple javascript clone of the android app Writer
 
-# In action
+## In action
 [Click here to view the demo](https://flawiddsouza.github.io/Writer/)
 
 As it uses your browser's localStorage, nothing will be saved on the server. All your notes are saved locally on your computer.
 
-# Usage
+## Usage
 - Clone or Download ZIP
 - Open index.html in your favorite browser and you're good to go :)
 - If you don't want to clone or download anything, you can just use the demo page forever!
