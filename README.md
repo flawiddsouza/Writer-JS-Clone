@@ -2,7 +2,7 @@
 A simple javascript clone of the android app Writer
 
 ## In action
-[Click here to view the demo](https://flawiddsouza.github.io/Writer/)
+[Click here to view the demo](https://flawiddsouza.github.io/Writer-JS-Clone/)
 
 As it uses your browser's localStorage, nothing will be saved on the server. All your notes are saved locally on your computer.
 
